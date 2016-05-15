@@ -1,0 +1,35 @@
+[Chat]
+UpUp=I got it!
+TeamUpUp=1
+UpLeft=Centering...
+TeamUpLeft=1
+UpRight=Take the shot!
+TeamUpRight=1
+UpDown=Defending...
+TeamUpDown=1
+LeftUp=Nice shot!
+TeamLeftUp=0
+LeftLeft=Great pass!
+TeamLeftLeft=0
+LeftRight=Thanks!
+TeamLeftRight=0
+LeftDown=What a save!
+TeamLeftDown=0
+RightUp=OMG!
+TeamRightUp=0
+RightLeft=Noooo!
+TeamRightLeft=0
+RightRight=Wow!
+TeamRightRight=0
+RightDown=Close one!
+TeamRightDown=0
+DownUp=$#@%!
+TeamDownUp=0
+DownLeft=No Problem.
+TeamDownLeft=0
+DownRight=Whoops...
+TeamDownRight=0
+DownDown=Sorry!
+TeamDownDown=0
+[Settings]
+OverlayON=1
