@@ -1,0 +1,4 @@
+Overlay is sometimes half populated
+Overlay sometimes not visible
+Some users can never get overlay
+Sometimes a long message will lose some characters
