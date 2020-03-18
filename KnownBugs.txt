@@ -2,3 +2,4 @@ Overlay is sometimes half populated
 Overlay sometimes not visible
 Some users can never get overlay
 Sometimes a long message will lose some characters
+The program can be seen as a cheating by some other games "Anti-cheat" software, notably PUBG. Please close this when running other games.
